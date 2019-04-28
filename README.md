@@ -6,3 +6,6 @@ his/her weight and height for a customized exercise plan.  He/she then can see h
 will take to burn off the calories by swimming, joggiong or riding a bike.  If the user 
 wishes to exercise differently, by inputing their zip code,the will receive 10 gyms in 
 their area.
+
+The app uses api keys to be able to call information from various sources. All api keys
+that were used, are now deleted or disabled.
